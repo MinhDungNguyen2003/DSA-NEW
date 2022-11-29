@@ -501,4 +501,5 @@ void command_line5(int argc, char *argv[])
     b = copyArray(a, n);
     countComparisonAlgorithm(b, n, algorithm2_name, count_comparison2);
     print_output_compare_mode(running_time1, running_time2, count_comparison1, count_comparison2);
+    //
 }
